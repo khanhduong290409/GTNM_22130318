@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.info {
+    display: flex;
+    
+
+}
+.avt {
+    display: flex;
+    height:400px;
+    width: auto;
+    padding:5px;
+    
+}
+p {
+    display: flex;
+    padding-left: 50px;
+}
+
